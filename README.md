@@ -1,5 +1,6 @@
 #  Research on Named Entity Recognition and Named Entity Linking in Traditional Chinese Medicine Manuals
 
+![Fedora Logo](https://github.com/github/explore/raw/main/topics/fedora/fedora.png) ![NVIDIA Logo](https://github.com/github/explore/raw/main/topics/nvidia/nvidia.png) ![Python Logo](https://github.com/github/explore/raw/main/topics/python/python.png) ![Keras Logo](https://github.com/github/explore/raw/main/topics/keras/keras.png) ![TensorFlow Logo](https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png) ![Anaconda Logo](https://github.com/github/explore/raw/main/topics/anaconda/anaconda.png) ![Spyder Logo](https://github.com/github/explore/raw/main/topics/spyder/spyder.png) ![Jupyter Logo](https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png) ![Neo4j Logo](https://github.com/github/explore/raw/main/topics/neo4j/neo4j.png) ![GitHub Logo](https://github.com/github/explore/raw/main/topics/github/github.png)
 
 
 ## 1. Data Sources and Description
