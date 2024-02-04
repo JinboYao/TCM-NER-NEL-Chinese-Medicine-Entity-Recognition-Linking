@@ -1,6 +1,10 @@
 #  Research on Named Entity Recognition and Named Entity Linking in Traditional Chinese Medicine Manuals
 
-![Fedora Logo](https://github.com/github/explore/raw/main/topics/fedora/fedora.png) ![NVIDIA Logo](https://github.com/github/explore/raw/main/topics/nvidia/nvidia.png) ![Python Logo](https://github.com/github/explore/raw/main/topics/python/python.png) ![Keras Logo](https://github.com/github/explore/raw/main/topics/keras/keras.png) ![TensorFlow Logo](https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png) ![Anaconda Logo](https://github.com/github/explore/raw/main/topics/anaconda/anaconda.png) ![Spyder Logo](https://github.com/github/explore/raw/main/topics/spyder/spyder.png) ![Jupyter Logo](https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png) ![Neo4j Logo](https://github.com/github/explore/raw/main/topics/neo4j/neo4j.png) ![GitHub Logo](https://github.com/github/explore/raw/main/topics/github/github.png)
+![Python](https://img.shields.io/badge/language-Python%203.7-blue.svg)
+![Keras](https://img.shields.io/badge/framework-Keras%202.3.1-green.svg)
+![TensorFlow](https://img.shields.io/badge/framework-TensorFlow%201.14-blue.svg)
+![Neo4j](https://img.shields.io/badge/database-Neo4j%203.39-green.svg)
+![Fedora](https://img.shields.io/badge/OS-Fedora%2036-blue.svg)
 
 
 ## 1. Data Sources and Description
